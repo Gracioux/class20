@@ -1,2 +1,1 @@
-# class20
-basics of physics engine
+# C20-Student-boilerplate-code
